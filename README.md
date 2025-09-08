@@ -1,5 +1,3 @@
-# Healthcare_Appointment_Scheduler_System
-This is a simple yet efficient Healthcare Appointment Scheduler System developed in Java. It simulates real-world hospital appointment scheduling by matching patients to doctors based on their medical specialty needs and urgency level.  The system uses Data Structures &amp; Algorithms (DSA) concepts to manage and prioritize appointments effectively.
 # Healthcare Appointment Scheduler
 
 A **Java-based Healthcare Appointment Scheduler** that efficiently manages patient appointments with doctors based on **urgency** and **specialty**. This project demonstrates **real-world problem solving** using **Data Structures (Priority Queue)** and **Object-Oriented Programming (OOP)** concepts.
